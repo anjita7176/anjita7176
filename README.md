@@ -1,39 +1,95 @@
-# Hi, I’m Anjita Kumari 👋
+<div align="center">
 
-### Aspiring Data Scientist | Python, SQL & Machine Learning | Learning Generative AI
+# Hi, I'm Anjita Kumari 👋
 
-I’m a B.Tech Mechanical Engineering student building practical skills in data analysis and machine learning. I use Python and SQL to explore data, create visualizations, and develop predictive models. I’m currently learning Generative AI and expanding my project portfolio.
+### Aspiring Data Scientist | Machine Learning | Generative AI
 
-## Skills
+**Turning data into insights and building practical AI solutions.**
 
-- **Programming & data:** Python, SQL, NumPy, Pandas
-- **Visualization:** Matplotlib, Seaborn
-- **Machine learning:** scikit-learn, exploratory data analysis, model training and evaluation
-- **Currently learning:** Generative AI
+[![GitHub](https://img.shields.io/badge/GitHub-anjita7176-181717?style=for-the-badge\&logo=github)](https://github.com/anjita7176)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/anjita-kumari-48975624b/)
 
-## Projects
+</div>
 
-### Social Network Ads Purchase Prediction
-A machine learning project using Logistic Regression to predict whether a user may purchase a product based on age and estimated salary.
+---
 
-[View the project →](https://github.com/anjita7176/Social-Network-Ads-Purchase-Prediction)
+## 👩‍💻 About Me
 
-### Python Practice
-Practice programs and learning work in Python.
+I'm an aspiring Data Scientist and B.Tech Mechanical Engineering student interested in using data and AI to solve real-world problems.
 
-[View the repository →](https://github.com/anjita7176/Python-Practice)
+* 🐍 Learning Python, SQL and data analysis.
+* 🤖 Developing my Machine Learning and Generative AI skills.
+* 📊 Exploring data visualization, predictive modeling and model evaluation.
+* 🚀 Building practical projects to strengthen my technical portfolio.
+* 🌱 Continuously learning and improving through hands-on practice.
 
-### SQL Practice
-A collection of SQL practice questions and solutions.
+## 🛠️ Tech Stack
 
-[View the repository →](https://github.com/anjita7176/SQL-Practice)
+**Languages**
 
-## What I’m working toward
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-- Strengthening my data analysis and machine learning foundations
-- Building projects with clear documentation
-- Learning Generative AI concepts and tools
+**Data Analysis & Visualization**
 
-## Connect
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-- GitHub: [@anjita7176](https://github.com/anjita7176)
+**Machine Learning**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+
+## 🚀 Featured Projects
+
+### 1. Social Network Ads — Purchase Prediction
+
+A Machine Learning project that uses Logistic Regression to predict whether a user may purchase a product based on age and estimated salary.
+
+**Skills:** Python, Pandas, Data Visualization, Logistic Regression, Scikit-learn
+
+[**Explore Project →**](https://github.com/anjita7176/Social-Network-Ads-Purchase-Prediction)
+
+### 2. Python Practice
+
+A collection of Python practice programs and exercises focused on programming fundamentals and problem-solving.
+
+[**Explore Repository →**](https://github.com/anjita7176/Python-Practice)
+
+### 3. SQL Practice
+
+A collection of SQL practice questions and solutions to strengthen database querying and analytical thinking.
+
+[**Explore Repository →**](https://github.com/anjita7176/SQL-Practice)
+
+## 🎯 Current Learning Goals
+
+* Strengthening Python and SQL skills.
+* Improving Machine Learning model evaluation.
+* Learning Generative AI concepts and tools.
+* Building well-documented, practical AI projects.
+
+## 📊 GitHub Overview
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjita7176\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anjita7176\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+## 🤝 Let's Connect
+
+* 💼 LinkedIn: [Anjita Kumari](https://www.linkedin.com/in/anjita-kumari-48975624b/)
+* 💻 GitHub: [@anjita7176](https://github.com/anjita7176)
+
+---
+
+<div align="center">
+
+*Learning continuously. Building consistently. Growing with data and AI.* ✨
+
+</div>
