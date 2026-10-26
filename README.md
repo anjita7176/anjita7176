@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./github-banner.png" alt="Anjita Kumari — Data Science and AI" width="100%">
+</div>
+
+<br/>
+
+<div align="center">
 
 # Hi, I'm Anjita Kumari 👋
 
