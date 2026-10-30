@@ -70,6 +70,29 @@ A collection of SQL practice questions and solutions to strengthen database quer
 
 [**Explore Repository →**](https://github.com/anjita7176/SQL-Practice)
 
+
+## 🏆 Certifications
+
+<div align="center">
+
+| Certification | Issuing Organization | Status |
+|:---|:---:|:---:|
+| 🐍 Python (Basic) | HackerRank | ✅ Completed |
+| 🧠 Problem Solving (Intermediate) | HackerRank | ✅ Completed |
+
+</div>
+
+### 📜 Certificate Details
+
+- **Python (Basic)**
+  - Issued by: HackerRank
+  - Credential ID: `F8EAEC8CF325`
+
+- **Problem Solving (Intermediate)**
+  - Issued by: HackerRank
+  - Credential ID: `9FD73A4A2A2E`
+
+
 ## 🎯 Current Learning Goals
 
 * Strengthening Python and SQL skills.
